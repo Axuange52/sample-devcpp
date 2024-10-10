@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main(){
+    printf("I suppose that make me interested.");
+    return 0;
+}
